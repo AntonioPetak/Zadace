@@ -1,2 +1,0 @@
-# Zadace
-UWT zadace
